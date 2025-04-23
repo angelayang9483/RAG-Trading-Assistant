@@ -1,10 +1,11 @@
 # RAG-Trading-Assistant
 Multi-agent trading assistant that gathers recent financial news to advise user about the market.
-
 Uses LangGraph to create multi-agent workflow.
+
 ![image](https://github.com/user-attachments/assets/48032eb6-6d41-4361-b7d3-388cea326384)
 
 EXAMPLE INPUT AND OUTPUT
+
 User:
 How is the S&P 500 doing?
 
